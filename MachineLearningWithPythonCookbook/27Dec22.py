@@ -58,5 +58,33 @@ matrix3 = np.array([[1,2,3],
 allElements = vector[:]
 
 # Select everything up to  and including the third element
+upTo3rdElement = vector[:3]
 
-upTo3rdElement =vector[:3]
+
+# Select everything after the 3rd Element
+from3rdElement =  vector[3:]
+
+#Select the last element
+lastElement = vector[-1]
+
+
+# Select the 1st two rows and all columns of a matrix
+matrix_1sts2rowAllCln = matrix3[:2, :]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
