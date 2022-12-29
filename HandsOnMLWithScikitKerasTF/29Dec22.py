@@ -15,8 +15,6 @@ from sklearn.linear_model import LinearRegression
 from sklearn.neighbors import KNeighborsRegressor
 
 
-import urllib.request
-
 
 # Downloading and preparing data
 
